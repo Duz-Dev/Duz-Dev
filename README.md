@@ -6,7 +6,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>  <img src="https://github.com/Duz-Dev/Duz-Dev/blob/main/rei_dance_1.gif" alt="rei dance" width="40" /><h1> Hello World!, I'm JRubén</h1> <img src="https://github.com/Duz-Dev/Duz-Dev/blob/main/rei_dance_1.gif" alt="rei dance" width="40" /></summary> 
-    <a href="https://discordapp.com/users/957722095381540874"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+    <a href="https://discordapp.com/users/957722095381540874" target="_blank" ><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
   </ul>
 </div>
 <!-------->
@@ -26,7 +26,7 @@ console.log("I-am-pablo")
 ```
 <hr>
 <div align="center"><h2 style="display: inline-block">Mi Comunidad ✨</h2>
-  <a href="https://discord.gg/Rfzr3pMkr2">
+  <a href="https://discord.gg/Rfzr3pMkr2" target="_blank">
     <img src="https://i.postimg.cc/vZx9tjXC/image.png" alt="banner de frontend sin fronteras" width="90%">
   </a>
 </div>
@@ -84,12 +84,12 @@ console.log("I-am-pablo")
 <!--icons and links--> 
 
 <p align="center">
-    <a href="https://github.com/Duz-Dev" target="blank"><img src="https://skillicons.dev/icons?i=git"/></a>
-    <a href="https://www.youtube.com/channel/UCJZEPJBru50Uh7NRdDIJe-w" target="blank"><img src="https://i.postimg.cc/dVqbjmBK/youtube-256x180-1.png" width="58" height="48"/></a>
-    <a href="https://discordapp.com/users/957722095381540874" target="blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
-    <a href="www.linkedin.com/in/juan-ruben-chavez-420b03151" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-    <a href="https://www.instagram.com/j_rubenzzz/" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-    <a href="mailto:j.ruben.dev@proton.me?" target="blank" title="j.ruben.dev@proton.me"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+    <a href="https://github.com/Duz-Dev" target="_blank"><img src="https://skillicons.dev/icons?i=git"/></a>
+    <a href="https://www.youtube.com/channel/UCJZEPJBru50Uh7NRdDIJe-w" target="_blank"><img src="https://i.postimg.cc/dVqbjmBK/youtube-256x180-1.png" width="58" height="48"/></a>
+    <a href="https://discordapp.com/users/957722095381540874" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
+    <a href="www.linkedin.com/in/juan-ruben-chavez-420b03151" target="_blank" title="www.linkedin.com/in/juan-ruben-chavez-420b03151"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+    <a href="https://www.instagram.com/j_rubenzzz/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+    <a href="mailto:j.ruben.dev@proton.me?" target="_blank" title="j.ruben.dev@proton.me"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 <!--- snake -->
