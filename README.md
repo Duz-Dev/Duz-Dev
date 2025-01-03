@@ -68,7 +68,6 @@ console.log("I-am-pablo")
 <p>
     <a href="https://discordapp.com/users/957722095381540874"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="https://discordapp.com/users/957722095381540874"><img alt="youtube" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
-    <a href="https://discordapp.com/users/957722095381540874"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="https://discordapp.com/users/957722095381540874"><img alt="youtube" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <!--     <a href="#"><img alt="youtube" src="https://github-readme-stats.vercel.app/api?username=Duz-Dev&theme=blue-green"></a>
 </p> -->
